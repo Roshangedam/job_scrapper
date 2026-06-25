@@ -1,0 +1,94 @@
+i want create job scrapper that scrap job in given plat form and 
+faeture
+buityfull ui dashbaord wher sacrpped job will be appear 
+
+user can caret many engine as they want
+---------------------
+each engine can be cinfigure indivusaly that will run i backned
+
+each engine jave option configure
+platform user can add as many platform addable list defalt we will ahve linked in and naukari
+make it stadrd so in future if we want add any new platfomr we can add
+each platform can be disabled enalble preply in each engine
+engine name
+user{name ,email(used for send found jobs),job that he wants(data crafted by ai user have upload option ai will craft this data as josn and sttire this will
+ be use for match found jobs criteria ) give uplaod resume option for it inertannly given ai will crfat this in our stadrd requre json formate decide stadrd json formte,}
+ --tip json formate will be use when found job detail and this json formtw will give to ai ai will decide 
+ candite suability missing skill best  all metrics for that jobs copmre to this canditae josn
+ it will happen for each job 
+refresh (running interval)
+
+email aleert configuartion enble disable and all other setting wnginw platform wise 
+
+
+scarppig prefrence configaurtion like what kind jobs 
+-job name keyowrd,
+-compy list this can be list for each compny job keyword saerch separtely and will gie combine result
+-and location list also
+after creation engine will start run 
+-------------------------
+
+dashbaord
+show dashboard engine wise scarpped jobs gird view should have button to
+
+it should have all proper info 
+job name desc key skill ,expriance range and all other inprtant that job requre to macth 
+job match % ,skill match hegilted, selection % ,apllied people if avalble,
+
+if have email oh hr that also be shown here or any contact
+
+ apply buutn so redirect aplly side 
+ info button show dialogue detail info
+ wich also have above same but it shoudl all requred info in details
+
+ use proper smooth coluer  and butyfull ui all proerp firm where it sacroed which platform for engine show its logo n tat card smal proper
+
+----------------------
+
+email service utlity to send email 
+prper template
+ this saection also show in dashboard in setting where user can configure this satdrd setting
+ which email use for platform for alert with password if anything you thing setting should here suggest me we will add
+
+ also in this setting other stadrd settin g if you want to add that can be user  can add here 
+
+ ------------------------
+
+each section and funationality shulld prper ui like everyone shoudl like
+
+
+each funtion logic utilty  should be moduler and scable in practoce so in futre can be develope indepndatly
+
+--
+please select stack wich is etter for  this arcitrectirre also
+do reshrce also sggest improvemntes if any
+
+
+also will will disccrs our adde platform in engine eac h how will scarpped data and if authenticatio there how we shaould cnfigure (i think adding this configuretion in globa setting very helpful for as by selcting platform we coan configure so engin eonly ise added valoel paltform form setting)
+ 
+ -there shuld one ai servoce also that will use for caretion for json from upaloded reussne
+ -whne job found scapreed in proper usabe json by aplliaction alwasys satdrd we will give while job des[tion with all data garbge like it will give priper json stadrd for eavyr job independant plat form
+ -for coampring matcbility and other metric for prfole and job by these json so that will be use in scarpped job info to show so user can be decide they want apply or not 
+ dashboard should ave filter optio for job by name,year ,comny name evry thing shoudln stadrd here 
+ 
+-----------------
+--note
+use stadrd code practice
+code should be rodction level
+should be acle ble moduler robust
+
+here is simple flow how it work 
+user g dashboard
+go to setig frist comfigure  email, platform(all seting as we will use and metion in above also think you what we should add to amke satdrd) then done
+
+thenin dash b board craete engine section -> carete  engne -> give name , email, select platform,uplaoed resume ,
+add key word can be used for job scarp like job name list ,comapny name list,location list, expriace range,
+
+then create done->
+
+dashbo rad have option to go engine section will show active enginge where all engine there 
+with stas working showing info of engine with statuss if click there then we can edit this engine 
+
+frist make this plan stadrd then we disccess remaing and designea
+
+
